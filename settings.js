@@ -24,10 +24,9 @@ My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your messag
 
 global.owner = ['+6285865462352'] //Owner number in aive msg
 global.premium = ['+85865462352'] //Owner Number info
-global.ownernomer = '+6285865462352
-' //Owner Number <<<
+global.ownernomer = '+6285865462352' //Owner Number <<<
 
-global.ownername = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖' //Owner Name
+global.ownername = '😎Dyandra' //Owner Name
 global.botname = ' ☬RED༒DRAGON࿐' //Bot Name
 
 global.button = '🤭Youtube📍' //Costomize A Button Name In Alive Message
